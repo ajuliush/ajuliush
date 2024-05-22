@@ -1,8 +1,3 @@
-[!(./asset/banner.jpg)](http://juliush.info/)
-
-
-
-
 
 <br>
 <br>
