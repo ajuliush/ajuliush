@@ -32,7 +32,7 @@
 
 <p align="center">
     ## 💼 Skills
-![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 - **CSS**: Skilled in styling web pages with CSS. Capable of creating responsive layouts, animations, and ensuring cross-browser compatibility.
