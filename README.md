@@ -31,8 +31,10 @@
 <br>
 
 <p align="center">
-    ## 💼 Skills
+   ## 💼 Skills
+
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+- **HTML**: Proficient in structuring web content using HTML. Experienced in creating semantic markup and ensuring accessibility standards.
 
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 - **CSS**: Skilled in styling web pages with CSS. Capable of creating responsive layouts, animations, and ensuring cross-browser compatibility.
@@ -84,9 +86,6 @@
 
 ![](https://img.shields.io/badge/Code-Front--End%20Technologies-informational?style=flat&logo=frontend&logoColor=white&color=4AB197)
 - **Front-End Technologies**: Skilled in using front-end technologies like HTML, CSS, JavaScript, Bootstrap, and jQuery to create responsive and interactive user interfaces.
-
-[![](https://img.shields.io/badge/GitHub-yourusername-informational?style=flat&logo=github&logoColor=white&color=4AB197)](https://github.com/yourusername)
-
 
 <br>   
     
