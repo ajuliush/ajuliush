@@ -1,4 +1,4 @@
-[![Samun's GitHub Banner](./asset/banner.jpg)](http://juliush.info/)
+[!(./asset/banner.jpg)](http://juliush.info/)
 
 
 
