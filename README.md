@@ -37,8 +37,7 @@
     ## 💼 Skills
  ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-- **HTML**: Proficient in structuring web content using HTML. Experienced in creating semantic markup and ensuring accessibility standards.
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 - **CSS**: Skilled in styling web pages with CSS. Capable of creating responsive layouts, animations, and ensuring cross-browser compatibility.
