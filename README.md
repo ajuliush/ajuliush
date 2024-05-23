@@ -34,52 +34,36 @@
 ![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=4AB197)
-- **Bootstrap**: Experienced in using Bootstrap to build responsive and mobile-first web pages quickly. Familiar with customizing Bootstrap components and utilities.
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-- **JavaScript**: Proficient in using JavaScript for front-end development. Capable of creating responsive and dynamic web applications, implementing client-side logic, and using modern JavaScript frameworks and libraries.
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=4AB197)
-- **jQuery**: Skilled in using jQuery to simplify HTML DOM tree traversal and manipulation, event handling, and Ajax interactions.
+![](https://img.shields.io/badge/Code-jQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4AB197)
-- **PHP**: Skilled in server-side scripting with PHP. Able to develop dynamic web pages, handle server-side logic, and integrate with databases for data retrieval and manipulation.
+![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-OOP-informational?style=flat&logo=oop&logoColor=white&color=4AB197)
-- **Object-Oriented Programming (OOP)**: Experienced in applying OOP principles to write modular and reusable code. Proficient in using OOP concepts in PHP and other languages.
+![](https://img.shields.io/badge/Code-OOP-informational?style=for-the-badge&logo=oop&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=4AB197)
-- **Laravel**: Proficient in building robust, scalable web applications using the Laravel PHP framework. Experienced in creating RESTful APIs, managing database migrations, and implementing authentication systems.
+![](https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-MVC-informational?style=flat&logo=mvc&logoColor=white&color=4AB197)
-- **MVC (Model-View-Controller)**: Skilled in applying the MVC design pattern to separate application logic, user interface, and data management. Experienced in using MVC with frameworks like Laravel.
+![](https://img.shields.io/badge/Code-MVC-informational?style=for-the-badge&logo=mvc&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-API-informational?style=flat&logo=api&logoColor=white&color=4AB197)
-- **API Development**: Experienced in designing and implementing RESTful APIs. Skilled in API authentication, versioning, and documentation.
+![](https://img.shields.io/badge/Code-API-informational?style=for-the-badge&logo=api&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-ORM-informational?style=flat&logo=orm&logoColor=white&color=4AB197)
-- **ORM (Object-Relational Mapping)**: Proficient in using ORM tools like Eloquent in Laravel to interact with databases using object-oriented syntax.
+![](https://img.shields.io/badge/Code-ORM-informational?style=for-the-badge&logo=orm&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-Dependency%20Management-informational?style=flat&logo=dependency-management&logoColor=white&color=4AB197)
-- **Dependency Management**: Experienced in managing project dependencies using tools like Composer for PHP.
+![](https://img.shields.io/badge/Code-Dependency%20Management-informational?style=for-the-badge&logo=dependency-management&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-Command%20Line%20Tools-informational?style=flat&logo=cli&logoColor=white&color=4AB197)
-- **Command Line Tools**: Proficient in using command line tools for development tasks, including Laravel Artisan, Git, and various Unix commands.
+![](https://img.shields.io/badge/Code-Command%20Line%20Tools-informational?style=for-the-badge&logo=cli&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-Laravel%20Packages%20and%20Bundles-informational?style=flat&logo=laravel-packages&logoColor=white&color=4AB197)
-- **Laravel Packages and Bundles**: Skilled in integrating and utilizing Laravel packages and bundles to extend application functionality.
+![](https://img.shields.io/badge/Code-Laravel%20Packages%20and%20Bundles-informational?style=for-the-badge&logo=laravel-packages&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-Performance%20Optimization-informational?style=flat&logo=performance-optimization&logoColor=white&color=4AB197)
-- **Performance Optimization**: Experienced in optimizing web application performance through code optimization, query optimization, and caching strategies.
+![](https://img.shields.io/badge/Code-Performance%20Optimization-informational?style=for-the-badge&logo=performance-optimization&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-Problem%20Solving-informational?style=flat&logo=problem-solving&logoColor=white&color=4AB197)
-- **Problem Solving**: Strong analytical and problem-solving skills. Capable of troubleshooting complex issues and finding effective solutions.
+![](https://img.shields.io/badge/Code-Problem%20Solving-informational?style=for-the-badge&logo=problem-solving&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-Version%20Control-informational?style=flat&logo=git&logoColor=white&color=4AB197)
-- **Version Control**: Proficient in using Git for version control. Experienced in branching, merging, and collaborative development workflows.
+![](https://img.shields.io/badge/Code-Version%20Control-informational?style=for-the-badge&logo=git&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-Front--End%20Technologies-informational?style=flat&logo=frontend&logoColor=white&color=4AB197)
-- **Front-End Technologies**: Skilled in using front-end technologies like HTML, CSS, JavaScript, Bootstrap, and jQuery to create responsive and interactive user interfaces.
+![](https://img.shields.io/badge/Code-Front--End%20Technologies-informational?style=for-the-badge&logo=frontend&logoColor=white&color=4AB197)
 
 <br>   
     
