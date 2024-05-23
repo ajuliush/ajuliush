@@ -31,37 +31,8 @@
 
 <p align="center">
   
-![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-jQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-OOP-informational?style=for-the-badge&logo=oop&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-MVC-informational?style=for-the-badge&logo=mvc&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-API-informational?style=for-the-badge&logo=api&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-ORM-informational?style=for-the-badge&logo=orm&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Dependency%20Management-informational?style=for-the-badge&logo=dependency-management&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Command%20Line%20Tools-informational?style=for-the-badge&logo=cli&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Laravel%20Packages%20and%20Bundles-informational?style=for-the-badge&logo=laravel-packages&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Performance%20Optimization-informational?style=for-the-badge&logo=performance-optimization&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Problem%20Solving-informational?style=for-the-badge&logo=problem-solving&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Version%20Control-informational?style=for-the-badge&logo=git&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Front--End%20Technologies-informational?style=for-the-badge&logo=frontend&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-jQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-OOP-informational?style=for-the-badge&logo=oop&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-MVC-informational?style=for-the-badge&logo=mvc&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-API-informational?style=for-the-badge&logo=api&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-ORM-informational?style=for-the-badge&logo=orm&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-Dependency%20Management-informational?style=for-the-badge&logo=dependency-management&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-Command%20Line%20Tools-informational?style=for-the-badge&logo=cli&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-Laravel%20Packages%20and%20Bundles-informational?style=for-the-badge&logo=laravel-packages&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-Performance%20Optimization-informational?style=for-the-badge&logo=performance-optimization&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-Problem%20Solving-informational?style=for-the-badge&logo=problem-solving&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-Version%20Control-informational?style=for-the-badge&logo=git&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-Front--End%20Technologies-informational?style=for-the-badge&logo=frontend&logoColor=white&color=4AB197)
 
 <br>   
     
