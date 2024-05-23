@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://github.com/ajuliush/ajuliush/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/ajuliush/ajuliush/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-   ## 💼 Skills
+    💼 Skills
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 - **HTML**: Proficient in structuring web content using HTML. Experienced in creating semantic markup and ensuring accessibility standards.
