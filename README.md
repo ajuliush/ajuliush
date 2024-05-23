@@ -32,9 +32,8 @@
 <p align="center">
   
 ![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=4AB197)
-- **CSS**: Skilled in styling web pages with CSS. Capable of creating responsive layouts, animations, and ensuring cross-browser compatibility.
 
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=4AB197)
 - **Bootstrap**: Experienced in using Bootstrap to build responsive and mobile-first web pages quickly. Familiar with customizing Bootstrap components and utilities.
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
