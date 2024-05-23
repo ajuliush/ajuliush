@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture><img align="right" height="150px" alt="GIF" src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></picture>
+<picture><img alt="Night Coding" src="https://camo.githubusercontent.com/3f234bc50c134cc7c0b8da423c56e8c58a14a28a05b60bec327be2370dd131d1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a75756139693263326641304149703269712f67697068792e676966" height="300px" align="right" data-canonical-src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></picture>
 
 <br>
 
