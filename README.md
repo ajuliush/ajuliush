@@ -17,9 +17,11 @@
 
 <br>
 
-- A passionate Self-taught Back-end developer
-- Currently learning Web Development by Self
-- I’m currently open for a new job opportunity, this is [my resume]([https://drive.google.com/file/d/1gJWsNLbVjbixeedFsiDs6mm20me9GLnk/view?usp=sharing])
+# About Me
+
+- **A passionate Self-taught Back-end developer**
+- **Currently learning Web Development by Self**
+- **I’m currently open for a new job opportunity, here is [my resume](https://drive.google.com/file/d/1gJWsNLbVjbixeedFsiDs6mm20me9GLnk/view?usp=sharing)**
 
 <br><br>
 
