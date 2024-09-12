@@ -19,8 +19,7 @@
 
 - A passionate Self-taught Back-end developer
 - Currently learning Web Development by Self
-- Personal website [link](https://juliush.dev/)
-- I’m currently open for a new job opportunity, this is [my resume](https://juliush.dev/assets/front-end/files/juliushadmed.pdf)
+- I’m currently open for a new job opportunity, this is [my resume]([https://juliush.dev/assets/front-end/files/juliushadmed.pdf](https://drive.google.com/file/d/1gJWsNLbVjbixeedFsiDs6mm20me9GLnk/view?usp=sharing))
 
 <br><br>
 
